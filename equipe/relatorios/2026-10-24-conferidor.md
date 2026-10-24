@@ -28,3 +28,14 @@ Nenhum.
 
 ## Não feito nesta execução (verificações semanais, rodam na segunda)
 Mapa de afirmações, atualização jurídica, vigilância contra golpe, teste no celular.
+
+---
+
+## Segunda execução do dia (fim da tarde) — VIGIA
+**Resumo:** nada mudou; nenhum achado crítico.
+- Pull requests abertos: nenhum.
+- Triagem refeita: 28 nós, 0 nós inexistentes, 0 órfãos, 4 PATHS válidos.
+- Número/e-mail: WhatsApp 5551992150331 e contato@amaralgurgel.adv.br idênticos; links locais sem quebra; sitemap com 10 URLs.
+- Aviso do golpe (role="dialog") presente no index.html.
+- Site publicado: acesso bloqueado pelo proxy desta execução (HTTP 403 em amaralgurgel.adv.br e no github.io), então não foi possível conferir online.
+- Observações da execução da manhã continuam valendo (consórcio: "recusa" na linha 499; "um de nossos advogados" pendente da Paula).
