@@ -4,6 +4,8 @@ Este arquivo é lido em toda execução. Nenhum colaborador age fora dele. Em ca
 
 ## 1. Estrutura
 
+Nomes da equipe: GMARC (administrador de marketing), RADAR (pesquisa e captação), PAUTA (conteúdo e redes), VIGIA (conferidor e testador), GTEC (gerente de desenvolvimento). Nos relatórios e pull requests, cada um assina com o seu nome.
+
 | Papel | Arquivo de instruções | Frequência |
 |---|---|---|
 | Administrador de marketing | equipe/administrador.md | 1x por dia (noite) + relatório semanal às quartas |
