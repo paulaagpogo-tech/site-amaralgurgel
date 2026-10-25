@@ -25,3 +25,7 @@ Nenhum.
 - **observação** — index.html linha 499 usa "recusa" ("Atraso ou recusa na liberação da carta de crédito"), no contexto de consórcio, não de seguro; a regra "negativa de pagamento" vale para seguros. Redator pode avaliar se prefere outra palavra.
 - Blog ainda vazio (apenas LEIA-ME).
 - Rotinas semanais (mapa de afirmações, atualização jurídica, busca por golpe) não rodaram: hoje é domingo.
+
+## Adendo — execução do fim da tarde
+- Nenhum pull request aberto; main inalterada (b7327a2) desde a verificação anterior, então triagem, número único e links continuam válidos sem novo achado.
+- Site publicado segue inacessível pelo proxy (HTTP 403); teste no navegador continua pendente.
